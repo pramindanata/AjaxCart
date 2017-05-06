@@ -1,2 +1,4 @@
 # AjaxCart
-Cart sederhana dengan Ajax
+Cart sederhana dengan Ajax.
+
+Aplikasi ini hanya berfokus untuk penerapan Ajax pada aplikasi cart.
